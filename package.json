@@ -1,0 +1,14 @@
+{
+  "name": "AnimatedResponsiveImageGrid",
+  "description": "Fork of codrops/AnimatedResponsiveImageGrid so that it can be consumed by npm",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BarkleyREI/AnimatedResponsiveImageGrid.git"
+  },
+  "bugs": {
+    "url": "https://github.com/BarkleyREI/AnimatedResponsiveImageGrid"
+  },  
+  "license": "UNLICENSED",
+  "private": true
+}
