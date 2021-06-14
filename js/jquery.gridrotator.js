@@ -1,5 +1,5 @@
 /**
- * jquery.gridrotator.js v1.1.0
+ * jquery.gridrotator.js v1.1.3
  * http://www.codrops.com
  *
  * Licensed under the MIT license.
