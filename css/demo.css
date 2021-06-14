@@ -37,7 +37,7 @@ a img {
 
 .codrops-header{
 	margin: 10px;
-	padding: 20px 10px 10px 10px;
+	padding: 20px 10px 10px;
 	position: relative;
 	display: block;
     text-align: center;
@@ -75,11 +75,11 @@ a img {
 	text-transform: uppercase;
 	z-index: 9999;
 	position: relative;
-	box-shadow: 1px 0px 2px rgba(0,0,0,0.2);
+	box-shadow: 1px 0 2px rgba(0,0,0,0.2);
 }
 
 .codrops-top a {
-	padding: 0px 10px;
+	padding: 0 10px;
 	letter-spacing: 1px;
 	color: #333;
 	display: inline-block;
@@ -110,11 +110,11 @@ a img {
     text-align: center;
 	display: block;
 	line-height: 30px;
-	padding: 5px 0px;
+	padding: 5px 0;
 }
 .codrops-demos a{
     display: inline-block;
-	margin: 0px 10px;
+	margin: 0 10px;
 	font-weight: bold;
 	color: #333;
 	line-height: 20px;	
@@ -135,7 +135,7 @@ a img {
 .codrops-header-special{
 	position: absolute;
 	top: 80px;
-	left: 0px;
+	left: 0;
 	text-align: left;
 }
 
